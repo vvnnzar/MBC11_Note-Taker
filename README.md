@@ -15,7 +15,7 @@ https://vvnnzar.github.io/MBC11_Note_Taker/
 ### Screen layout and Design
 
 The following image depicts the web application's appearance and functionality:
-(![Note Taker Screen Design]())
+(![Note Taker Screen Design](https://github.com/vvnnzar/MBC11_Note_Taker/blob/main/public/assets/screen%20design/11-express-homework-demo-01.png))
 
 ### Acknowledgements
 
