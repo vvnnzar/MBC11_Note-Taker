@@ -3,10 +3,9 @@
 Monash Bootcamp Assignment 11 - Note Taker
 
 ### About this project
-
-Vivianne Zara is an IT Senior Business Consultant, currently studying Full Stack Web Development at Monash Univeristy.
-
-This portfolio is a personal respresentation of accomplishments to date as part of the course design.
+Monash Bootcamp started code was enhanced to create this Note Taker application.
+The Note Taker application is a tool that can be used to write and save notes on the client browser. 
+This application uses Express.js to save and retrieve note data from a JSON file.
 
 ### Project Link
 
