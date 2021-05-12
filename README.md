@@ -3,7 +3,7 @@
 Monash Bootcamp Assignment 11 - Note Taker
 
 ### About this project
-Monash Bootcamp started code was enhanced to create this Note Taker application.
+Monash Bootcamp starter code was enhanced to create this Note Taker application.
 The Note Taker application is a tool that can be used to write and save notes on the client browser. 
 This application uses Express.js to save and retrieve note data from a JSON file.
 
