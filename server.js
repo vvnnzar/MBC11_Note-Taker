@@ -46,6 +46,7 @@ app.post("/api/notes", function (req, res) {
 
 //Delete Saved Notes
 app.delete("/api/notes/:id", function (req, res) {
+  console.log("delete: ", req.params);
   const noteID = req.params.id;
   fs.readFile(path.join(__dirname, "./db/db.json"), (err, data) => {
     if (err) throw err;
