@@ -7,9 +7,12 @@ Monash Bootcamp starter code was enhanced to create this Note Taker application.
 The Note Taker application is a tool that can be used to write and save notes on the client browser. 
 This application uses Express.js to save and retrieve note data from a JSON file.
 
-### Project Link
+### Project Links
 
 https://vvnnzar.github.io/MBC11_Note_Taker/
+
+This application is live via Heroku
+https://infinite-bastion-31894.herokuapp.com/
 
 ### Screen layout and Design
 
