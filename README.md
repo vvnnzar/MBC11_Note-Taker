@@ -39,7 +39,9 @@ To view and modify code you will require installation of:
 2. Create a local project repository
 3. Clone project repository using git clone
 4. Initialise the project using command: git init
-5. Install npm required packages
+5. To install necessary dependencies, run the command: npm i
+6. Invoke the application with command:note server.js.  This will start localhost server on PORT 3000
+7. Open browser and type http://localhost:3000/ to run this application on your local machine.
 
 ### Tests
 
